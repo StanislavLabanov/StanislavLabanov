@@ -4,17 +4,10 @@
 
 ## 🧠 Stack
 
-## Languages:
-JavaScript, TypeScript, HTML, CSS, SQL
-
-## Frameworks / Libraries:
-React, Next.js, Redux Toolkit, Zustand, TanStack (React Query), Tailwind CSS, Vite, Webpack, Highcharts, AG-Grid, Material-UI
-
-## Testing:
-Jest, React Testing Library
-
-## Tools:
-Git, GitHub, GitLab, Docker, Postman
+- **Core:**: JavaScript, TypeScript, HTML, CSS, SQL
+- **Frameworks / Libraries:**: React, Next.js, Redux Toolkit, Zustand, TanStack (React Query), Tailwind CSS, Vite, Webpack, Highcharts, AG-Grid, Material-UI
+- **Testing:**: Jest, React Testing Library
+- **Tools:**:Git, GitHub, GitLab, Docker, Postman
 
 <!--
 **StanislavLabanov/StanislavLabanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
