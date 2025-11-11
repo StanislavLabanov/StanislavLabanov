@@ -1,4 +1,4 @@
-<h1 align="center">Stas Labanov </h1>
+<h1 align="center">Stas Labanov Frontend • React • TypeScript</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/stas-labanov/">LinkedIn</a>
@@ -14,9 +14,9 @@
 </p>
 
 ### Who I am
-I create production-level full-stack applications that are useful for humanity using the modern stack. 
 
- If it works fast and feels right, then I probably created it
+I create production-level full-stack applications that are useful for humanity using the modern stack. 
+If it works fast and feels right, then I probably created it
 
 ## Projects
 
