@@ -1,4 +1,5 @@
 ## Hi there 👋
+<h1 align="center">Stas Labanov</h1>
 
 ## Projects
 
