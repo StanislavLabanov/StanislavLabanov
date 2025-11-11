@@ -1,4 +1,4 @@
-<h1 align="center">Stas Labanov 
+<h1 align="center">Stas Labanov <br />
   Frontend • React • TypeScript</h1>
 
 <p align="center">
