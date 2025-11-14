@@ -12,14 +12,13 @@
 
 ## Who I am
 
-I create production-level full-stack applications that are useful for humanity using the modern stack. 
+I create production-level frontend applications that are useful for humanity using the modern stack. 
 If it works fast and feels right, then I probably created it
 
 ## Projects
 
-- **[Smart warehouse](https://github.com/StanislavLabanov/prosto-market)** - A virtual warehouse for your business to manage all product categories and quickly calculate revenue and expenses, **with AI** (TypeScript + Next.js + TailwindCSS)
-- **[LanguageTest](https://github.com/StanislavLabanov/language-test-fullstack)** - An application for determining the language level, including grammar, listening, and translation tests (React + TypeScript + Nest.js)
 - **[AITeacher](https://github.com/StanislavLabanov/telegram-mini-app_ai-teacher)** - AI teacher for learning English with integration into the Telegram messenger  **[backend part](https://github.com/StanislavLabanov/telegram-mini-app_ai-teacher-backend)** (React + TypeScript + Telegram Mini App + TailwindCSS)
+- **[LanguageTest](https://github.com/StanislavLabanov/language-test-fullstack)** - An application for determining the language level, including grammar, listening, and translation tests (React + TypeScript + Nest.js)
 - **[AdminPanel](https://github.com/StanislavLabanov/admin-panel_for_ai-teacher)** - Admin panel for AITeacher and LanguageTest, for adding new tests, words, and audio, etc. (TypeScript + React + Nest.js). 
 
 ## Stack
