@@ -17,8 +17,8 @@ If it works fast and feels right, then I probably created it
 
 ## Projects
 
-- **[LanguageTest](https://github.com/StanislavLabanov/language-test-fullstack)** - An application for determining the language level, including grammar, listening, and translation tests (React + TypeScript + Nest.js)
-- **[AdminPanel](https://github.com/StanislavLabanov/admin-panel_for_ai-teacher)** - Admin panel for AITeacher and LanguageTest, for adding new tests, words, and audio, etc. **[backend part](https://github.com/StanislavLabanov/telegram-mini-app_ai-teacher-backend)** (TypeScript + React + Nest.js). 
+- **[LanguageTest](https://github.com/StanislavLabanov/language-test-fullstack)** - An application for determining the language level, including grammar, listening, and translation tests (Next.js + TypeScript)
+- **[AdminPanel](https://github.com/StanislavLabanov/admin-panel_for_ai-teacher)** - Admin panel for AITeacher and LanguageTest, for adding new tests, words, and audio, etc. **[backend part](https://github.com/StanislavLabanov/telegram-mini-app_ai-teacher-backend)** (TypeScript + React + MaterialUI). 
 
 ## Stack
 
